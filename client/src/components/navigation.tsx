@@ -42,8 +42,8 @@ export default function Navigation() {
   const navItems = [
     { id: "about", label: "About" },
     { id: "journey", label: "Journey" },
-    { id: "projects", label: "Projects" },
-    { id: "hobbies", label: "Life & Hobbies" },
+    // { id: "projects", label: "Projects" },
+    { id: "hobbies", label: "More About Me" },
     { id: "contact", label: "Contact" }
   ];
 

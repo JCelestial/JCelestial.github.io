@@ -5,9 +5,9 @@ export default function HobbiesSection() {
     <section id="hobbies" className="py-20 bg-background">
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="font-bold text-3xl lg:text-4xl text-foreground mb-4">Life & Hobbies</h2>
+          <h2 className="font-bold text-3xl lg:text-4xl text-foreground mb-4">What do I do outside of my computer?</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Beyond coding, I like to categorize my hobbies into 3 different buckets: Creative, Physical, and Intellectual.
+            I like to categorize my hobbies into 3 different buckets: Creative, Physical, and Intellectual.
           </p>
         </div>
 

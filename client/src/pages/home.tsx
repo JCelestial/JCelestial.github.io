@@ -18,7 +18,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-muted/20 border-t border-border py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
-          <p className="text-muted-foreground">© 2025 Jarvis Celestial. Built with passion and creativity.</p>
+          <p className="text-muted-foreground">© 2019 Jarvis Celestial. Built with caffeine and some cat hair.</p>
         </div>
       </footer>
     </div>
