@@ -128,7 +128,7 @@ export const projectsData: Project[] = [
 export const hobbiesData: HobbySection[] = [
   {
     id: "lifestyle",
-    title: "Been Active my whole life",
+    title: "Been active my whole life",
     gridCols: "grid-cols-2 md:grid-cols-4",
     images: [
       {

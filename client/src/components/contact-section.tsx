@@ -7,7 +7,7 @@ export default function ContactSection() {
       label: "Email",
       value: "jarvisterrel.celestial@gmail.com",
       href: "mailto:jarvisterrel.celestial@gmail.com",
-      description: "Drop me a line if you want to know more about my work (or send me coffee beans)"
+      description: "Drop me a line if you want to know more about my work"
     },
     {
       icon: Github,
@@ -29,10 +29,10 @@ export default function ContactSection() {
     <section id="contact" className="py-20 bg-gradient-to-br from-muted/20 to-background">
       <div className="max-w-4xl mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="font-bold text-3xl lg:text-4xl text-foreground mb-4">Let's Work Together</h2>
+          <h2 className="font-bold text-3xl lg:text-4xl text-foreground mb-4">Want to hear more from me?</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             I'm always interested in new opportunities and exciting projects. 
-            Whether you have a question or just want to say hi, I'll try my best to get back to you!
+            Whether you have a question, say hi, or send me coffee beans, I'll try get back to you ASAP!
           </p>
         </div>
 
