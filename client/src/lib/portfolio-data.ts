@@ -128,7 +128,7 @@ export const projectsData: Project[] = [
 export const hobbiesData: HobbySection[] = [
   {
     id: "lifestyle",
-    title: "Active Lifestyle",
+    title: "Been Active my whole life",
     gridCols: "grid-cols-2 md:grid-cols-4",
     images: [
       {
@@ -151,7 +151,7 @@ export const hobbiesData: HobbySection[] = [
   },
   {
     id: "creative",
-    title: "Creative Pursuits",
+    title: "Whatever brainpower doesn't go to code, goes to food",
     gridCols: "grid-cols-1 md:grid-cols-3",
     images: [
       {
@@ -170,7 +170,7 @@ export const hobbiesData: HobbySection[] = [
   },
   {
     id: "intellectual",
-    title: "Intellectual Developmeent",
+    title: "Appreciating the finer things in life",
     gridCols: "grid-cols-1 md:grid-cols-3",
     images: [
       {
