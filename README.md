@@ -1,2 +1,0 @@
-# JCelestial.github.io
-# Portfolio
